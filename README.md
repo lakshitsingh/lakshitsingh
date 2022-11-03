@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lakshitsingh
 - 👀 I’m interested in self learning
-- 🌱 I’m currently learning full stack devlopement
+- 🌱 I’m currently learning MERN stack
 - 💞️ I’m looking to collaborate on react devlopement
 - 📫 How to reach me singhlakshit01@gmail.com
 
